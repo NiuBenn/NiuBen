@@ -12,6 +12,6 @@ int main()
 		printf("\n");
 	}
 	getchar();
-	system("paush");//½â¾övsÉÁÍË
+	system("paush");//Let the program pause
 	return 0;
 }
