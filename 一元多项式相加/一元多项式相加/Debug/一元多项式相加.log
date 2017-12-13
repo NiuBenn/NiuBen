@@ -1,0 +1,5 @@
+﻿  一元多项式.c
+c:\users\dell\desktop\c\code\other\数据结构\一元多项式相加\一元多项式相加\一元多项式.c(4): warning C4005: “NULL”: 宏重定义
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\vcruntime.h(236): note: 参见“NULL”的前一个定义
+  一元多项式相加.vcxproj -> C:\Users\dell\Desktop\c\code\other\数据结构\一元多项式相加\Debug\一元多项式相加.exe
+  一元多项式相加.vcxproj -> C:\Users\dell\Desktop\c\code\other\数据结构\一元多项式相加\Debug\一元多项式相加.pdb (Partial PDB)
