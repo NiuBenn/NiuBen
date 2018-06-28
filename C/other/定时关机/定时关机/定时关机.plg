@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 定时关机 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/定时关机.res" /d "NDEBUG" /d "_AFXDLL" "C:\Users\dell\Desktop\桌面\c\code\other\定时关机\定时关机\定时关机.rc"" 
+Creating temporary file "C:\Users\dell\AppData\Local\Temp\RSP12A4.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/定时关机.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Users\dell\Desktop\桌面\c\code\other\定时关机\定时关机\定时关机.cpp"
+"C:\Users\dell\Desktop\桌面\c\code\other\定时关机\定时关机\定时关机Dlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\dell\AppData\Local\Temp\RSP12A4.tmp" 
+Creating temporary file "C:\Users\dell\AppData\Local\Temp\RSP12A5.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/定时关机.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Users\dell\Desktop\桌面\c\code\other\定时关机\定时关机\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\Users\dell\AppData\Local\Temp\RSP12A5.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/定时关机.pdb" /machine:I386 /out:"Release/定时关机.exe"  ".\Release\StdAfx.obj" ".\Release\定时关机.obj" ".\Release\定时关机Dlg.obj" ".\Release\定时关机.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+定时关机.cpp
+定时关机Dlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+定时关机.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
